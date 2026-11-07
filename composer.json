@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/adhkar-php-asma-ul-husna-lexicon",
+  "description": "99 Names of Allah (Al-Asma' Al-Husna) Morphological & Quranic Lexicon (موسوعة أسماء الله الحسنى التسعة والتسعين ومعانيها)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
